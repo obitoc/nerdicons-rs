@@ -2,7 +2,7 @@
 name = "nerdicons_rs"
 version = "0.1.0"
 edition = "2024"
-authors = ["Obito <obitodih@gmail.com"]
+authors = ["Obito <obitodih@gmail.com>"]
 description = "Access all NerdFonts Icons and Use It"
 license = "MIT"
 repository = "https://github.com/obitoc/nerdicons-rs"
