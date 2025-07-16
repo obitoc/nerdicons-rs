@@ -1,4 +1,4 @@
-//! # nerdicons-rs
+//! # nerdicons_rs
 //! Easily use Nerd Font icons in Rust.
 //!
 //! ## Example
